@@ -1,0 +1,6 @@
+{
+  "name": "Kindred",
+  "description": "Private chat app exclusively for two best friends with real-time messaging, voice notes, shared memories, streaks, bucket list, and daily questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
